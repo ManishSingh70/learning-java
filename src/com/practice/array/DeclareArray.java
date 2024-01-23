@@ -1,4 +1,4 @@
-package com.google.array;
+package com.practice.array;
 
 public class DeclareArray {
 
