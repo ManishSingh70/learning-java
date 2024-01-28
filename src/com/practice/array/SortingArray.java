@@ -20,10 +20,10 @@ public class SortingArray {
 	            }
 	        }
 
-//	        System.out.println("Sorted Array: " + Arrays.toString(myArray));
-	        for(int a :myArray) {
-	        	System.out.println("Sorted Array: "+a);
-	        }
+	        System.out.println("Sorted Array: " + Arrays.toString(myArray));
+			/*
+			 * for(int a :myArray) { System.out.println("Sorted Array: "+a); }
+			 */
 	    }
 	}
 
